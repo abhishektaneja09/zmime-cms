@@ -8,7 +8,7 @@ A modern, Ghost-like blogging CMS built with React, Supabase, and Netlify. Creat
 1. Click the "Deploy to Netlify" button below or manually connect this repository
 2. Your blog will be deployed automatically
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/YOUR_USERNAME/zmime-cms)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abhishektaneja09/zmime-cms)
 
 ### Step 2: Set Up Your Blog
 1. Visit your deployed site (e.g., `https://your-site.netlify.app`)
@@ -119,9 +119,9 @@ All settings are managed through the admin dashboard:
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/YOUR_USERNAME/zmime-cms/issues)
+- **Issues**: [GitHub Issues](https://github.com/abhishektaneja09/zmime-cms/issues)
 - **Documentation**: Built-in help in admin dashboard
-- **Community**: [Discussions](https://github.com/YOUR_USERNAME/zmime-cms/discussions)
+- **Community**: [Discussions](https://github.com/abhishektaneja09/zmime-cms/discussions)
 
 ## 📄 License
 
