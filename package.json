@@ -1,7 +1,7 @@
 {
   "name": "zmime-cms",
-  "version": "1.0.0",
-  "description": "Open source blogging CMS similar to Ghost",
+  "version": "1.0.1",
+  "description": "Modern open source blogging CMS built with React and Supabase",
   "main": "index.js",
   "scripts": {
     "dev": "vite",

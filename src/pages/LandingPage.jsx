@@ -31,7 +31,7 @@ const LandingPage = () => {
             <span className="text-primary-600"> You've Been Waiting For</span>
           </h1>
           <p className="text-xl text-ghost-600 mb-8 leading-relaxed">
-            Create beautiful blogs with the power of Ghost CMS, built on modern tech stack. 
+            Create beautiful blogs with modern technology and powerful features. 
             Deploy in minutes, customize everything, and scale without limits.
           </p>
           <div className="space-x-4">

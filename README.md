@@ -1,6 +1,6 @@
 # ZMime CMS - Open Source Blogging Platform
 
-A modern, Ghost-like blogging CMS built with React, Supabase, and Netlify. Create beautiful blogs with zero backend complexity.
+A modern, powerful blogging CMS built with React, Supabase, and Netlify. Create beautiful blogs with zero backend complexity.
 
 ## 🚀 Quick Deployment
 
@@ -35,7 +35,7 @@ A modern, Ghost-like blogging CMS built with React, Supabase, and Netlify. Creat
 - User profiles and permissions
 
 ### 📊 Admin Dashboard
-- Ghost-like admin interface
+- Professional admin interface
 - Post management (create, edit, delete, schedule)
 - Analytics and statistics
 - Settings configuration
